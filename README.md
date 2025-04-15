@@ -1,4 +1,4 @@
-#Book class Project
+# Book class Project
 This book class demonstrates basic object oriented programming(OPP) concerpts in python using a "Book" theme.
 It includes:
 - class creation
